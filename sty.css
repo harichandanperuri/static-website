@@ -1,0 +1,27 @@
+.top-container{
+    float: right;
+  padding: 20px ;
+  border: solid 10px ;
+  background-color: mediumslateblue ;
+  width: 200px;
+
+  height: 200px;
+
+}
+
+.middle-container{
+    float: right;
+  background-color: limegreen ;
+  border: solid 20px ;
+  width: 200px;
+  height: 200px;
+
+
+}
+
+.bottom-container{
+  float :right;
+  background-color: lightpink ;
+  border: solid 10px;
+  width: 200px;
+  height: 200px;
